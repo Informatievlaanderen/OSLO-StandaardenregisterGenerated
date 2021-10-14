@@ -17,7 +17,7 @@
     "@govflanders/vl-ui-data-table": "3.12.33",
     "@govflanders/vl-ui-drawer": "3.12.33",
     "@govflanders/vl-ui-dropdown-navigation": "3.12.33",
-    "@govflanders/vl-ui-dynamic-drawer": "3.12.33",
+    "@govflanders/vl-ui-dynamic-drawer": "8.0.0",
     "@govflanders/vl-ui-icon": "3.12.33",
     "@govflanders/vl-ui-infoblock": "3.12.33",
     "@govflanders/vl-ui-infotext": "3.12.33",

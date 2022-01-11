@@ -18,7 +18,7 @@
     "@govflanders/vl-ui-data-table": "9.0.8",
     "@govflanders/vl-ui-core": "10.0.8",
     "@govflanders/vl-ui-content-header": "9.0.8",
-    "@govflanders/vl-ui-checkbox": "9.0.8",
+    "@govflanders/vl-ui-checkbox": "10.0.1",
     "@govflanders/vl-ui-button": "9.0.8",
     "@govflanders/vl-ui-arrow-navigation": "9.0.8",
     "@govflanders/vl-ui-alert": "9.0.8",

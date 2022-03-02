@@ -15,7 +15,7 @@
     "@govflanders/vl-ui-dynamic-drawer": "9.0.8",
     "@govflanders/vl-ui-dropdown-navigation": "9.0.8",
     "@govflanders/vl-ui-drawer": "9.0.8",
-    "@govflanders/vl-ui-data-table": "9.0.8",
+    "@govflanders/vl-ui-data-table": "11.0.7",
     "@govflanders/vl-ui-core": "10.0.8",
     "@govflanders/vl-ui-content-header": "9.0.8",
     "@govflanders/vl-ui-checkbox": "9.0.8",

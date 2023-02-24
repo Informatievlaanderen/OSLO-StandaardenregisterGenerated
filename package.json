@@ -34,7 +34,7 @@
     "node-sass": "4.14.1",
     "raw-loader": "4.0.2",
     "rdfa-streaming-parser": "1.5.0",
-    "readable-stream": "3.6.1",
+    "readable-stream": "4.3.0",
     "sass": "1.58.3",
     "sass-loader": "^8.0.2",
     "vue": "2.7.14",
